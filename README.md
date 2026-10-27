@@ -16,7 +16,6 @@ FixFlow is a full-stack web application designed to streamline maintenance reque
 - [Database Management](#database-management)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -389,9 +388,6 @@ Contributions should follow the existing project structure and coding convention
 4. Commit the changes with a descriptive message.
 5. Open a pull request with a clear summary of the implementation.
 
-## License
-
-Add the project's applicable license information here when the license has been established.
 
 ---
 
