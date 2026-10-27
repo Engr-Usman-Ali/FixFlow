@@ -185,7 +185,7 @@ The system administration interface provides authorized administrators with user
 <p align="center">
   <img src="docs/images/system-administration.png" alt="FixFlow System Administration" width="900">
 </p>
-<p align="center"><strong>Figure 10. System Administration</strong></p>
+<p align="center"><strong>System Administration Dashboard</strong></p>
 
 ### 2. Employee Dashboard
 
@@ -194,7 +194,7 @@ The employee dashboard provides access to maintenance request submission, person
 <p align="center">
   <img src="docs/images/employee-dashboard.png" alt="FixFlow Employee Dashboard" width="900">
 </p>
-<p align="center"><strong>Figure 2. FixFlow Employee Dashboard</strong></p>
+<p align="center"><strong>FixFlow Employee Dashboard</strong></p>
 
 ### 3. Manager Dashboard
 
@@ -203,7 +203,7 @@ The manager dashboard presents the maintenance review queue, request priorities,
 <p align="center">
   <img src="docs/images/manager-dashboard.png" alt="FixFlow Manager Dashboard" width="900">
 </p>
-<p align="center"><strong>Figure 3. FixFlow Manager Dashboard</strong></p>
+<p align="center"><strong>FixFlow Manager Dashboard</strong></p>
 
 ### 4. Technician Dashboard
 
@@ -212,7 +212,7 @@ The technician dashboard organizes assigned maintenance tasks and provides acces
 <p align="center">
   <img src="docs/images/technician-dashboard.png" alt="FixFlow Technician Dashboard" width="900">
 </p>
-<p align="center"><strong>Figure 4. FixFlow Technician Dashboard</strong></p>
+<p align="center"><strong>FixFlow Technician Dashboard</strong></p>
 
 ### 5. Maintenance Requests
 
@@ -221,7 +221,7 @@ The maintenance requests interface displays request information, including ident
 <p align="center">
   <img src="docs/images/maintenance-requests.png" alt="FixFlow Maintenance Requests" width="900">
 </p>
-<p align="center"><strong>Figure 5. Maintenance Request Management</strong></p>
+<p align="center"><strong>Maintenance Request Management</strong></p>
 
 ### 6. Request Details and Work Logs
 
@@ -230,7 +230,7 @@ The request details interface presents the maintenance history, diagnosis, work 
 <p align="center">
   <img src="docs/images/request-details.png" alt="FixFlow Request Details and Work Logs" width="900">
 </p>
-<p align="center"><strong>Figure 6. Request Details and Work Logs</strong></p>
+<p align="center"><strong>Request Details and Work Logs</strong></p>
 
 ### 7. Reports and Analytics
 
@@ -239,7 +239,7 @@ The reporting dashboard summarizes maintenance activity through status distribut
 <p align="center">
   <img src="docs/images/reports-dashboard.png" alt="FixFlow Reports and Analytics Dashboard" width="900">
 </p>
-<p align="center"><strong>Figure 8. Reports and Analytics Dashboard</strong></p>
+<p align="center"><strong>Reports and Analytics Dashboard</strong></p>
 
 ### 8. Roles and Permissions
 
@@ -248,7 +248,7 @@ The roles and permissions interface presents the system's access-control configu
 <p align="center">
   <img src="docs/images/roles-permissions.png" alt="FixFlow Roles and Permissions" width="900">
 </p>
-<p align="center"><strong>Figure 9. Roles and Permissions Management</strong></p>
+<p align="center"><strong>Roles and Permissions Management</strong></p>
 
 ### 9. Notifications and Audit Logs
 
@@ -257,7 +257,7 @@ The notifications interface displays relevant workflow updates, while the audit 
 <p align="center">
   <img src="docs/images/notifications-audit-logs.png" alt="FixFlow Notifications and Audit Logs" width="900">
 </p>
-<p align="center"><strong>Figure 11. Notifications and Audit Logs</strong></p>
+<p align="center"><strong>Notifications and Audit Logs</strong></p>
 
 ## Project Structure
 
